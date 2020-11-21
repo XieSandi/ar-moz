@@ -5,6 +5,6 @@ adalah sebuah halaman awal pelepasan web AR-MOZ untuk Program Krestifitas Mahasi
 
 Berisi Countdown sampai web ini launching . __tapi ga jadi launcing nya__
 
-Karena keburu males dan pamdemi , jadi pembuatan PKM di kampus nya ga jadi
+Karena keburu males dan pandemi , jadi pembuatan PKM di kampus nya ga jadi
 
 untuk versi app augment reality , menggunkan Vuforia sebagai engine nya
